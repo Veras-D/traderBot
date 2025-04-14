@@ -1,5 +1,5 @@
 <div align="center"">
-  <img src="https://i.imgur.com/NSfHb6D.png" style="height: 160px;" />
+  <img src="https://github.com/user-attachments/assets/6df4c331-c66c-4629-93fe-7c8279a121cb" style="height: 160px;" />
 </div>
 
 # 🤖 Crypto SMA Trading Bot (TypeScript)
