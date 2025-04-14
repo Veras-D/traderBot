@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Compiled files
+dist/
+*.js
+*.js.map
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.*
+
+# MacOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# PM2 logs
+pids/
+*.pid
+*.seed
+

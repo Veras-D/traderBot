@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+  crypto-bot:
+    build: .
+    container_name: crypto-bot
+    restart: always
+    working_dir: /app
+    command: npx ts-node src/bot.ts
+
