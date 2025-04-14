@@ -1,3 +1,7 @@
+<div align="center"">
+  <img src="https://i.imgur.com/NSfHb6D.png" style="height: 160px;" />
+</div>
+
 # 🤖 Crypto SMA Trading Bot (TypeScript)
 
 A simple yet powerful crypto trading bot using SMA (Simple Moving Average) crossover strategy. Built with TypeScript, Axios, and the Binance Testnet API. Ideal for testing trading logic with real-time market data.
