@@ -108,7 +108,5 @@ Profit: +0.39%
 - [ ] Telegram Bot Notifications
 - [ ] Real Binance Trading Support (with proper auth)
 
-```
-
 ---
 
