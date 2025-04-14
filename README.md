@@ -32,7 +32,7 @@ This bot uses the SMA crossover strategy:
 ```bash
 # Clone the repo
 git clone git@github.com:Veras-D/traderBot.git
-cd crypto-bot-ts
+cd traderBot
 
 # Install dependencies
 npm install
